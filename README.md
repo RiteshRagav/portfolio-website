@@ -1,2 +1,17 @@
-# portfolio-website
-A responsive personal portfolio website built with HTML, CSS, and JavaScript. Showcasing my projects, skills, and experience with a clean design and smooth animations.  🚀 Live Demo: [Your Vercel URL]  🔹 Features: ✅ Responsive Design ✅ Project Showcase ✅ Contact Form  Deployed on Vercel.
+# Personal Portfolio Website 🌐
+
+A simple personal portfolio website with **Home** and **Contact** pages, built using **HTML** and **CSS**. It provides a clean and responsive design to showcase my work and allow visitors to connect with me.
+
+## 🚀 Live Demo
+[Your Vercel URL](#)
+
+## 📌 Features
+- ✅ Home Page 🏠
+- ✅ Contact Page 📩
+- ✅ Responsive Design 📱💻
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+
+
